@@ -1,5 +1,5 @@
 # SeniorMap
-An interactive map of MHS seniors' college/postsecondary destinations. Created by Erik Boesen (G\MHS Class of 2019), the map is now maintained by the MHS Advanced Programming Club. If you'd like to make a submission, please visit [the map](https://apc-gm.com/seniormap) and click on the form in the bottom left corner.
+An interactive map of MHS seniors' college/postsecondary destinations. Created by Erik Boesen (MHS Class of 2019), the map is now maintained by the MHS Advanced Programming Club. If you'd like to make a submission, please visit [the map](https://apc-gm.com/seniormap) and click on the form in the bottom left corner.
 
 ![Map Screenshot](screenshot.png)
 
